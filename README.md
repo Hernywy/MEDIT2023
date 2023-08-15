@@ -1,1 +1,0 @@
-# DrupalBooks app in drupal
